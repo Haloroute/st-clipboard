@@ -13,9 +13,6 @@ within Streamlit applications, supporting both **HTTP** and **HTTPS** contexts.
   Clipboard copy commands can be triggered programmatically anywhere in your Streamlit app  
   without requiring explicit user interaction with buttons, making integration flexible and convenient.
 
-- **Fully compatible with Streamlit's iframe-based rendering:**  
-  1% UI footprint — runs almost invisibly without affecting layout.  
-
 ## Why Use This Package?
 
 Streamlit apps run inside iframes and are often served over HTTPS, which imposes strict browser security policies on clipboard access.  

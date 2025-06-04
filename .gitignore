@@ -1,3 +1,7 @@
 \__pycache__
 \.vscode
 .venv/
+\st_clipboard.egg-info
+\build
+\dist
+.pypirc
